@@ -10,3 +10,5 @@ The question will be "Can people afford to stay in Australia with the increased 
 
 # Lesson 2 - 25/7/2025
 This lesson, I am continuing to work on Phase 1, specifically the Requirements Outline.
+---------- HALFWAY THROUGH THE LESSON UPDATE -----------
+So far, I have identified most of the functional requirements. I will begin on non-functional requirements, and I am hoping to finish Phase 1 so I can commence onto Phase 2 by next lesson.
