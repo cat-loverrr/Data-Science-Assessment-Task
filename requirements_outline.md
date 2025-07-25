@@ -8,7 +8,7 @@
 
 **Data Visualisation:** *The system will need to use MatPlotLib charts to display data.*
 
-**Data Reporting:** *What output should the system include, and do we need to store the final dataset somewhere (e.g. .csv or .txt file)?*
+**Data Reporting:** *The system will store the final dataset in a .csv file.*
 
 # Non Functional Requirements
 
