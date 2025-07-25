@@ -14,4 +14,4 @@ This lesson, I am continuing to work on Phase 1, specifically the Requirements O
 So far, I have identified most of the functional requirements. I will begin on non-functional requirements, and I am hoping to finish Phase 1 so I can commence onto Phase 2 by next lesson.                                                                                                          
 **----------  NEAR THE END OF THE LESSON UPDATE, 1:21 PM ----------**                                                                                    
 I have finished everything in Phase 1, except the the mind map, which I will get on to soon. The Requirements Outline is finished and stored in a seperate markdown (.md) file. I have finalised that file by making it more aesthetically pleasing, with italicisation, bolding, and headings. I will now move on to Phase 2 next lesson.                                                                                                           
-**---------- FINAL PUBLISHING TIME, LESSON 2, 1:28 PM ----------**
+**---------- FINAL PUBLISHING TIME, END OF LESSON 2, 1:28 PM ----------**
