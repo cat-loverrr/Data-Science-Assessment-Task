@@ -9,3 +9,9 @@
 **Data Visualisation:** *The system will need to use MatPlotLib charts to display data.*
 
 **Data Reporting:** *What output should the system include, and do we need to store the final dataset somewhere (e.g. .csv or .txt file)?*
+
+# Non Functional Requirements
+
+**Usability:** *In the User Interface, I will aim for some sort of visual interface for the user to utilize. At the very minimum, the system will have a User Interface that is text based. In the README document, each lesson's progress will be documented inside, along with any work I do outside of class.*
+
+**Reliability:** *When supplying the system with information, there will be no leaks, corruption or loss of data. The data given will stay only with the system and user.*
