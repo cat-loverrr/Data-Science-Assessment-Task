@@ -15,3 +15,12 @@ So far, I have identified most of the functional requirements. I will begin on n
 **----------  NEAR THE END OF THE LESSON UPDATE, 1:21 PM ----------**                                                                                    
 I have finished everything in Phase 1, except the the mind map, which I will get on to soon. The Requirements Outline is finished and stored in a seperate markdown (.md) file. I have finalised that file by making it more aesthetically pleasing, with italicisation, bolding, and headings. I will now move on to Phase 2 next lesson.                                                                                                           
 **---------- FINAL PUBLISHING TIME, END OF LESSON 2, 1:28 PM ----------**
+
+## Lesson 3 - 28/072025
+This lesson, I will begin on Phase 2. The first step of Phase 2 is researching the issue, so I will begin to find items such as news articles on the issue. Links found on the issue - 
+https://billcutters.com.au/cost-of-living-in-australia-2025-whats-rising-whats-changing-and-how-to-stay-ahead/
+https://socialjusticeaustralia.com.au/rising-cost-of-living-australia/
+https://www.aihw.gov.au/reports/australias-welfare/housing-affordability
+https://www.forbes.com/advisor/au/personal-finance/cost-of-living-in-australia/
+https://education.unimelb.edu.au/news-and-events/news/2025/young-adults-just-trying-to-get-by-amid-australias-rising-living-costs
+
