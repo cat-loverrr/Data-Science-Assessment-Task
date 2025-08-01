@@ -13,7 +13,7 @@ This lesson, I am continuing to work on Phase 1, specifically the Requirements O
 **---------- HALFWAY THROUGH THE LESSON UPDATE, 12:58 PM -----------**                                                                                                                                    
 So far, I have identified most of the functional requirements. I will begin on non-functional requirements, and I am hoping to finish Phase 1 so I can commence onto Phase 2 by next lesson.                                                                                                          
 **----------  NEAR THE END OF THE LESSON UPDATE, 1:21 PM ----------**                                                                                    
-I have finished everything in Phase 1, except the the mind map, which I will get on to soon. The Requirements Outline is finished and stored in a seperate markdown (.md) file. I have finalised that file by making it more aesthetically pleasing, with italicisation, bolding, and headings. I will now move on to Phase 2 next lesson.                                                                                                           
+I have finished everything in Phase 1, except the the mind map, which I will get on to soon. [The Requirements Outline](url) is finished and stored in a seperate markdown (.md) file. I have finalised that file by making it more aesthetically pleasing, with italicisation, bolding, and headings. I will now move on to Phase 2 next lesson.                                                                                                           
 **---------- FINAL PUBLISHING TIME, END OF LESSON 2, 1:28 PM ----------**
 
 ## Lesson 3 - 28/072025
@@ -32,5 +32,8 @@ https://advance.org/business-features/costsandliving
 ## Lesson 4 - 01/08/2025
 This lesson, I will continue researching the problem, compiling more links, and then getting started on the SEE-I paragraph/s.                                                                                                                                                
 **---------- UPDATE, 11:52 AM ----------**                                                                                                                                                                                                                                    
-I've finished with finding a lot of news articles, and anything else that has appropriate information to the task. I'm now re-reading everything written on this md document to ensure there's not any mistakes. I will also get started on the SEE-I paragraph/s.
+I've finished with finding a lot of news articles, and anything else that has appropriate information to the task. I'm now re-reading everything written on this md document to ensure there's not any mistakes. I will also get started on the SEE-I paragraph/s.            
+**---------- SEE-I PARAGRAPHS ----------**
+
+
 
