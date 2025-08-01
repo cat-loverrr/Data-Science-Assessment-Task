@@ -32,5 +32,5 @@ https://advance.org/business-features/costsandliving
 ## Lesson 4 - 01/08/2025
 This lesson, I will continue researching the problem, compiling more links, and then getting started on the SEE-I paragraph/s.                                                                                                                                                
 **---------- UPDATE, 11:52 AM ----------**                                                                                                                                                                                                                                    
-I've finished with finding a lot of news articles, and anything else that has appropriate information to the task.
+I've finished with finding a lot of news articles, and anything else that has appropriate information to the task. I'm now re-reading everything written on this md document to ensure there's not any mistakes. I will also get started on the SEE-I paragraph/s.
 
