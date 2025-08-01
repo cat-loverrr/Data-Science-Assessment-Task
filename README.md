@@ -17,7 +17,8 @@ I have finished everything in Phase 1, except the the mind map, which I will get
 **---------- FINAL PUBLISHING TIME, END OF LESSON 2, 1:28 PM ----------**
 
 ## Lesson 3 - 28/072025
-This lesson, I will begin on Phase 2. The first step of Phase 2 is researching the issue, so I will begin to find items such as news articles on the issue. Links found on the issue - 
+This lesson, I will begin on Phase 2. The first step of Phase 2 is researching the issue, so I will begin to find items such as news articles on the issue. Links found on the issue -                                                                                        
+
 https://billcutters.com.au/cost-of-living-in-australia-2025-whats-rising-whats-changing-and-how-to-stay-ahead/                                                                                                                                                                  
 https://socialjusticeaustralia.com.au/rising-cost-of-living-australia/                                                                                                                                                                                                          
 https://www.aihw.gov.au/reports/australias-welfare/housing-affordability                                                                                                                                                                                                        
