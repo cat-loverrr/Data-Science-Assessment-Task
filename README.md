@@ -23,6 +23,13 @@ https://socialjusticeaustralia.com.au/rising-cost-of-living-australia/
 https://www.aihw.gov.au/reports/australias-welfare/housing-affordability                                                                                                                                                                                                        
 https://www.forbes.com/advisor/au/personal-finance/cost-of-living-in-australia/                                                                                                                                                                                                 
 https://education.unimelb.edu.au/news-and-events/news/2025/young-adults-just-trying-to-get-by-amid-australias-rising-living-costs                                                                                                                                               
+https://www.abc.net.au/news/2022-03-22/getting-left-behind-as-the-cost-of-living-goes-up/100927776                                                                                                                                                                              
+https://www.abs.gov.au/media-centre/media-releases/rises-living-costs-all-household-types                                                                                                                                                                                       
+https://myaussiestory.com/can-you-afford-to-live-in-australia-cost-of-living-australia/                                                                                                                                                                                         
+https://advance.org/business-features/costsandliving                                                                                                                                                                                                                            
 
 ## Lesson 4 - 01/08/2025
 This lesson, I will continue researching the problem, compiling more links, and then getting started on the SEE-I paragraph/s.
+**---------- UPDATE, 11:52 AM ----------**                                                                                                                                                                                                                                    
+I've finished with finding a lot of news articles, and anything else that has appropriate information to the task.
+
