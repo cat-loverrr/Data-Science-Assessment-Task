@@ -18,9 +18,11 @@ I have finished everything in Phase 1, except the the mind map, which I will get
 
 ## Lesson 3 - 28/072025
 This lesson, I will begin on Phase 2. The first step of Phase 2 is researching the issue, so I will begin to find items such as news articles on the issue. Links found on the issue - 
-https://billcutters.com.au/cost-of-living-in-australia-2025-whats-rising-whats-changing-and-how-to-stay-ahead/
-https://socialjusticeaustralia.com.au/rising-cost-of-living-australia/
-https://www.aihw.gov.au/reports/australias-welfare/housing-affordability
-https://www.forbes.com/advisor/au/personal-finance/cost-of-living-in-australia/
-https://education.unimelb.edu.au/news-and-events/news/2025/young-adults-just-trying-to-get-by-amid-australias-rising-living-costs
+https://billcutters.com.au/cost-of-living-in-australia-2025-whats-rising-whats-changing-and-how-to-stay-ahead/                                                                                                                                                                  
+https://socialjusticeaustralia.com.au/rising-cost-of-living-australia/                                                                                                                                                                                                          
+https://www.aihw.gov.au/reports/australias-welfare/housing-affordability                                                                                                                                                                                                        
+https://www.forbes.com/advisor/au/personal-finance/cost-of-living-in-australia/                                                                                                                                                                                                 
+https://education.unimelb.edu.au/news-and-events/news/2025/young-adults-just-trying-to-get-by-amid-australias-rising-living-costs                                                                                                                                               
 
+## Lesson 4 - 01/08/2025
+This lesson, I will continue researching the problem, compiling more links, and then getting started on the SEE-I paragraph/s.
