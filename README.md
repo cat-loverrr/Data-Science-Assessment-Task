@@ -38,6 +38,6 @@ The paragraphs are stored in another markdown (.md) file. You can find it [here.
 I have began the SEE-I paragraph, and will finish it next lesson.                                                                        
 
 ## Lesson 5 - 05/08/2025
-I've finished the [SEE-I paragraph](https://github.com/cat-loverrr/Data-Science-Assessment-Task/blob/main/SEE-I%20paragraphs.md)
-I am now looking through Kaggle to find some datasets relevant to my research question.
+I've finished the [SEE-I paragraph](https://github.com/cat-loverrr/Data-Science-Assessment-Task/blob/main/SEE-I%20paragraphs.md).
+I am now looking through Kaggle to find some datasets relevant to [my research question.](Data-Science-Assessment-Task/Research Question.md at main · cat-loverrr/Data-Science-Assessment-Task)
 
