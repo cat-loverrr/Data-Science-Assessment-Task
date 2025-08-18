@@ -1,21 +1,16 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# Define your datasets
+# Defining my datasets
 datasets = {
-    "Income": {
-        "file": "income_data.csv",
-        "description": "Average annual income by region and year"
+    "Housing Option 1": {
+        "file": "mean_weekly_housing_costs_2019-20.csv",
+        "description": "Mean housing costs in 2019-20."
     },
-    "Housing": {
-        "file": "housing_data.csv",
-        "description": "Median house prices and rental costs across Australia"
-    },
-    "Inflation": {
-        "file": "inflation_data.csv",
-        "description": "Consumer price index and inflation trends over time"
-    }
-}
+    "Housing Option 2": {
+        "file": "mean_weekly_housing_costs1994-2020.csv",
+        "description": "Mean housing costs in 1994-95 to 2019-20."
+  }
 
 # Global variables
 current_dataset = None
@@ -34,22 +29,16 @@ def load_dataset(name):
 
 # Guided exploration prompt
 def guided_exploration():
-    print("\nWhat would you like to explore?")
-    print("1. How income has changed over time")
-    print("2. Whether housing is affordable in different regions")
-    print("3. How inflation affects the cost of living")
-    print("4. I want to choose a dataset manually")
+    print("\nWhat would you like to explore? Either:")
+    print("1. The average/mean housing costs from 1994-95 to 2019-20")
+    print("2. The mean/average housing costs in 2019-20.")
 
-    choice = input("Select an option (1-4): ").strip()
+    choice = input("Select an option (1-2): ").strip()
 
-    if choice == '1':
-        load_dataset("Income")
-    elif choice == '2':
-        load_dataset("Housing")
-    elif choice == '3':
-        load_dataset("Inflation")
-    elif choice == '4':
-        select_dataset()
+    if choice == 'a':
+        load_dataset("Housing Option 1")
+    elif choice == 'b':
+        load_dataset("Housing Option 2")
     else:
         print("Invalid selection.")
 
