@@ -24,7 +24,23 @@ def load_dataset(name):
         current_dataset = datasets[name]['file']
         print(f"\nLoaded dataset: {name} - {datasets[name]['description']}")
         try:
-            df = pd.read_csv(current_dataset)
+            df = pd.read_csv(current_dataset, skipinitialspace=True, engine='python')
+            df = df.dropna(axis=1, how='all')
+            df = df.map(lambda x: x.strip() if isinstance(x, str) else x)  # Clean spaces
+            # --- Add this block below ---
+            # Remove the 'Type' column if present
+            df = df.drop(columns=['Type'], errors='ignore')
+
+            # Remove asterisks and convert to numeric where possible
+            for col in df.columns[1:]:  # Skip the first column (category/label)
+                df[col] = (
+                    df[col]
+                    .replace(r'[*]+', '', regex=True)  # Remove asterisks
+                    .replace('', pd.NA)                # Replace empty strings with NA
+                )
+
+            df = df.rename(columns={df.columns[0]: "Category"})
+            df.columns = ["Category"] + [f"Column {i+1}" for i in range(1, len(df.columns))]
             print("Dataset loaded successfully.")
         except Exception as e:
             print(f"Error loading dataset: {e}")
@@ -82,8 +98,12 @@ def display_visualisation():
     y_col = input("Enter the column name for the Y-axis (e.g., Income): ").strip()
 
     if x_col in df.columns and y_col in df.columns:
+        # Drop rows where X or Y is missing
+        plot_df = df[[x_col, y_col]].dropna()
+        # Convert X to string for categorical plotting
+        plot_df[x_col] = plot_df[x_col].astype(str)
         plt.figure(figsize=(10, 5))
-        plt.plot(df[x_col], df[y_col], marker='o')
+        plt.plot(plot_df[x_col], plot_df[y_col], marker='o')
         plt.title(f"{y_col} over {x_col}")
         plt.xlabel(x_col)
         plt.ylabel(y_col)
